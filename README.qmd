@@ -1,4 +1,4 @@
-# Quantum Harmony — Semantic Loop DevOps Framework
+# Quantum Harmony — Semantic Loop DevOps
 
 ## 🌌 Vision
 Quantum Harmony is a **human–AI symbiosis project** designed to bring structure, ethics, and operational clarity to low-code and AI-augmented development environments. It is a living system: part DevOps, part Semantic Modeling Lab, part Governance Manifest.
