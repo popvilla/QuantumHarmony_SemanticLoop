@@ -1,0 +1,39 @@
+<msdyn_plan msdyn_planid="351bc1cf-5d1b-f011-9989-7c1e5218e730">
+  <iscustomizable>1</iscustomizable>
+  <msdyn_content mimetype="application/octet-stream">content</msdyn_content>
+  <msdyn_contentschemaversion>1.1</msdyn_contentschemaversion>
+  <msdyn_description>This solution will allow students to learn finance literacy interactively, with guidance from instructors and support from admins, enhancing their investment skills.</msdyn_description>
+  <msdyn_languagecode>1033</msdyn_languagecode>
+  <msdyn_name>FinLit Interactive Training</msdyn_name>
+  <msdyn_prompt>FinLit App
+Summary
+This document outlines the development of an interactive finance literacy training application designed for students and instructors. The app will simulate investment scenarios, allowing students to manage mock funds while receiving guidance from instructors through webinars and visual tools.
+•	User Roles Defined: The document identifies four key user roles: students, instructors, admins, and a chatbot. Each role has specific actions and purposes, contributing to the overall educational experience. 
+•	Student Interaction: Students will receive mock investment funds, track their portfolios, make investment decisions, and participate in webinars to enhance their financial literacy. 
+•	Instructor Functions: Instructors will provide tools, conduct webinars, monitor student progress, and simulate market events to enrich the learning environment. 
+•	Administrative Oversight: Admins will manage user accounts, oversee app performance, update resources, and generate reports to ensure effective operation of the application. 
+•	Chatbot Support: The chatbot will assist users by providing information on finance topics, navigating the app, responding to queries, and simulating market events. 
+•	Data Management: The application will utilize various data tables to store information about users, portfolios, webinars, and app performance, facilitating effective tracking and management. 
+•	User Experience: The document describes several applications and flows designed for students, instructors, and admins to ensure a seamless user experience. 
+Public Access: Sign-ups for the app will be available to the public through a webpage, promoting accessibility for all interested learners. 
+
+Prompt
+I would like to deploy a finance literacy training app with interactivity. Students will be given mock investment funds and simulate investing and tracking portfolio. Instructors will walk students through use of tools and be teaching webinars on certain concepts.  Investment decisions should be modeled out in visuals and charts. Ability to simulate market events and impact on portfolio, tracker and generate simulated stock prices and trading exchange.  The activity should be linked back to students page where they can track all their info. Student signup open to all public and should be a webpage
+
+Business problem
+The goal is to develop an interactive finance literacy training application. Users will receive virtual investment funds and simulate investments, monitoring their portfolios. Instructors will provide guidance using various tools and webinars on essential concepts. Investment decisions will be explained with visual aids and charts. The application will generate market events, produce stock prices, and display trading exchanges, linked to each user's page for tracking information. Signups will be accessible to the public via a webpage.
+
+Purpose of this plan
+This plan details the approach to solving the business problem. It includes a review of user roles and tasks, followed by identifying required resources such as tables, applications, workflows, and agents.
+
+User Roles
+
+Student 
+	Description
+Person who participates in the finance literacy training. In order to become a student one has to first submit an application through the powerpages signup which is open to  the public and does not require any user information to sign in. once the application is reviewed then the user will get an email notification with their login details which will provide a one time passwordfor them to access the workspace and then set up their own password. Upon setting up their account the applicant is moved to the student table and then gains the student user access to the application. 
+As a student I would like to do the following
+Activity	Power Platform tool	Purpose
+Receive mock investment funds	Bank  Application 	Students receive funds into their mock bank account which will represent Initial capital for trading activity. This will also be the initia</msdyn_prompt>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</msdyn_plan>
