@@ -26,51 +26,6 @@ This loop enforces **human-in-the-loop governance**, semantic precision, and ver
 
 ## 📂 Repository Structure
 
-```
-
-QuantumHarmony/
-├── 1_Architecture/
-│   ├── README.md                 # Master control file
-│   ├── Project_Summary.md        # Historical intent + narrative
-│   ├── Vendor_Drift_Log.md       # Track Microsoft/AI ecosystem changes
-│   └── Diagrams/
-│       └── architecture.png
-│
-├── 2_Build/
-│   ├── Dataverse_Schemas/
-│   │   ├── Applicants_Table.md
-│   │   ├── Grants_Table.md
-│   │   ├── Applications_Table.md
-│   │   └── Reviews_Table.md
-│   ├── PowerApps/
-│   │   └── ReviewerApp.msapp
-│   ├── PowerPages/
-│   │   └── ApplicantPortal/
-│   └── Automations/
-│       └── Flows.md
-│
-├── 3_AI_Orchestration/
-│   ├── Codex.md                  # Codex rules + scope
-│   ├── AI_Memory_Guardrail.md    # AI governance constitution
-│   ├── Provenance.md             # Human-authored vs system-augmented artifacts
-│   └── Prompts/
-│       ├── initial_model_prompt.txt
-│       └── semantic_feedback_prompt.txt
-│
-├── 4_Data/
-│   └── Samples/
-│       ├── Applicants.csv
-│       ├── Applications.csv
-│       └── Reviewers.csv
-│
-├── 5_Deployment/
-│   ├── Setup_Guide.md
-│   ├── Live_Config.md
-│   └── CI_CD_Pipeline.md
-│
-├── quantum_harmony_model.pbix    # Power BI semantic model (IDE)
-├── dataverse_schema.json         # Exported schema for production
-└── README.md                     # This file
 
 ```
 
