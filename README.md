@@ -1,9 +1,9 @@
-```python
 # Quantum Harmony — Semantic Loop DevOps
 
 ## 🌌 Vision
 
 Quantum Harmony is a **human–AI symbiosis project** designed to bring structure, ethics, and operational clarity to low-code and AI-augmented development environments. It is a living system: part DevOps, part Semantic Modeling Lab, part Governance Manifest.
+
 
 At its core, Quantum Harmony treats **Power BI as an IDE** for semantic modeling, **Dataverse as the source of truth**, and **AI (Copilot, Codex)** as scaffolding assistants—not architects. The goal: build resilient, ethical, human-supervised systems before vendor defaults reshape the stack.
 
@@ -21,15 +21,6 @@ A repeatable workflow for AI-augmented builds:
 6. **Feedback Loop** — Feed refined semantic models back into AI for documentation, UI scaffolds, and next-gen prompts.
 
 This loop enforces **human-in-the-loop governance**, semantic precision, and versioned accountability.
-
----
-
-## 📂 Repository Structure
-
-
-```
-
----
 
 ## 🛡️ Guardrails & Governance
 
