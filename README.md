@@ -1,4 +1,4 @@
-# Quantum Harmony – Semantic Loop DevOps Repo Starter
+# PowerBI As Low Code IDE
 
 ## 🎯 Purpose
 This repository is a **starter kit** for the **Semantic Loop DevOps workflow**: a method that combines **Copilot for schema scaffolding**, **Power BI as a semantic modeling sandbox**, and **Dataverse/SQL for production deployment**.
