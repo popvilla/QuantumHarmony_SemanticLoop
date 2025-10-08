@@ -5,10 +5,10 @@ A repeatable development framework that bridges low-code platforms, demonstratin
 
 ---
 
-## ⚙️ Guding light
+## ⚙️ The Vision 
 
 **Quantum Harmony** is a working proof-of-concept for a new kind of DevOps system:
-one where data architecture, semantic clarity, and AI augmentation are integrated from the start—*not bolted on after deployment.*
+one where data architecture, semantic clarity, and AI augmentation are integrated from the start—*not bolted on after deployment.* Building out this flow using LLM models to generate code exploring how much impact AI could have on the low code space.  
 
 It’s built to empower:
 - Low-code builders with architectural structure
