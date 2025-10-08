@@ -1,10 +1,11 @@
 # PowerBI_As_Low_Code | Quantum Harmony Semantic Loop DevOps 
 
-A repeatable development framework that bridges low-code platforms, semantic modeling, and human-in-the-loop AI—bringing DevOps principles to the modern citizen developer.
+
+A repeatable development framework that bridges low-code platforms, demonstrating the ability for AI to complement the changing workforce landscape by promoting Human In Loop polices for agents. 
 
 ---
 
-## ⚙️ What This Project Is
+## ⚙️ Guding light
 
 **Quantum Harmony** is a working proof-of-concept for a new kind of DevOps system:
 one where data architecture, semantic clarity, and AI augmentation are integrated from the start—*not bolted on after deployment.*
@@ -14,7 +15,7 @@ It’s built to empower:
 - Devs with semantic clarity before they ever write code
 - Teams with an iterative, testable loop for development that doesn’t break production
 
-This system uses **Power BI as a semantic sandbox**, **Copilot as a schema generator**, and **Dataverse/Power Platform as a delivery layer**, forming a feedback loop that validates logic, not just syntax.
+This system uses **Power BI as a semantic sandbox**, **Copilot as a schema generator**, and **Dataverse/Power Platform as a delivery layer**, forming a feedback loop that validates logic, not just syntax. The Azure platform reduces a lot of overhead auth complexity 
 
 ---
 
