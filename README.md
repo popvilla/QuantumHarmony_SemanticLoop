@@ -1,5 +1,4 @@
-```markdown
-# Quantum Harmony Semantic Loop DevOps
+# PowerBI_As_Low_Code | Quantum Harmony Semantic Loop DevOps 
 
 A repeatable development framework that bridges low-code platforms, semantic modeling, and human-in-the-loop AI—bringing DevOps principles to the modern citizen developer.
 
@@ -80,7 +79,6 @@ Also, if Microsoft or OpenAI is reading this:
 Yes. I’ve thought this through. Let’s talk.
 
 ---
-
 ## 🧪 How to Use This Repo
 
 - Clone it, drop in your schema drafts
@@ -89,20 +87,3 @@ Yes. I’ve thought this through. Let’s talk.
 - Extend the prompts or scripts to plug in your own use case
 
 ---
-
-## 🔮 Future Features (Open for collaboration)
-
-- Dataverse schema push automation
-- Power BI → SQL script generation
-- Semantic conflict resolution via prompt-chaining
-- Live training on human-in-the-loop AI system design
-
----
-
-## License
-
-MIT. Use it, fork it, build something better with it.
-
-```
-
-
